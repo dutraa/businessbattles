@@ -17,3 +17,9 @@ Here is how it works:
 In deploying a Scilla smart contract, we figured we would stick with a simple example of just deploying a contract that identifies battles state. In other words, did this wallet address actually win the battle and earn the NFT?
 
 In the future, we hope to implement auction functionalities for those early adopters to sell their creatures on a marketplace.
+
+Check out our [presentation](https://youtu.be/BFE7gl3jhbI) to learn more about the project
+
+Watch here as Xavier breaks down how the Business Battle Dex was [built](https://drive.google.com/file/d/1Mg7orZaSuRDsdjSZVPkK_hDW7U-6JZq_/view)
+
+Created by Anthony Dutra and Xavier Chase. Credit to Evan Debassio for Pokemon clone code!
