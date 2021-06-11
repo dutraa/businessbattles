@@ -1,13 +1,13 @@
 # Business Battles!
 
-Business Battles is a mobile role-playing game (RPG) where users scan special QR codes to battle and earn non-fungible token (NFT) creatures.
+Business Battles is a mobile role-playing game (RPG) where users scan special QR codes to battle and earn non-fungible token (NFT) creatures built using Zilliqa.
 These NFTs are unique to each business and get harder and harder to catch as more people do!
 
-User goes into a business (we will start with restaurants) and scans a QR code found on their receipt (or another place restaurant chooses)
-QR code initiates a battle
-User defeats creature => receives NFT in wallet
-User loses ⇒ Do not get creature; Buy at auction (“one and done”)
-Battle difficulty increases as more users win against and capture the NFT creature
+1) User goes into a business (we will start with restaurants) and scans a QR code found on their receipt (or another place restaurant chooses)
+2) This initiates a battle with a specific 
+- User defeats creature => receives NFT in wallet (i.e. business battle dex)
+- User loses ⇒ Do not get creature; Buy at auction (“one and done”)
+Battle difficulty increases & occurance of creature decreases as more users win against and capture the NFT creature
 
 Here is how it works:
 
