@@ -11,7 +11,7 @@ Battle difficulty increases as more users win against and capture the NFT creatu
 
 Here is how it works:
 
-
+![How to Play](xxxxxxxxxxxx)
 
 
 In deploying a Scilla smart contract, we figured we would stick with a simple example of just deploying a contract that identifies battles state. In other words, did this wallet address actually win the battle and earn the NFT?
