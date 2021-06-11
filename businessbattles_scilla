@@ -1,0 +1,20 @@
+scilla_version 0
+
+contract Business Battles (
+    owner: ByStr20
+)
+(* Mutable fields declaration *)
+field battlestate: String = ""
+field user_address: ByStr20 = ""
+
+(* Transition declaration *)
+transition changeBattleWin (newstate: String)
+  battlestate := win;
+  accept; 
+  user_address := _sender;
+
+transition changeBattleLose (newstate: String)
+  battlestate := lose;
+  accept; 
+  user_address := _sender;
+end
